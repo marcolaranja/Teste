@@ -36,3 +36,7 @@
 .footer{
 	background: blue;	
 }
+
+.footer a{
+	color: #fff;
+}
