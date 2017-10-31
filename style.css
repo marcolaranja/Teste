@@ -1,0 +1,38 @@
+.header{
+}
+
+.logo{
+	float: left;
+}
+
+.menu{
+	float: right;
+}
+
+.menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul li{
+	display: inline;
+}
+
+.menu a{
+	color: red;
+	text-decoration: none;
+	font-family: he;
+}
+
+.menu a:hover{
+	text-decoration: underline;
+	color: blue;
+}
+
+.content{
+	background: green;	
+}
+.footer{
+	background: blue;	
+}
