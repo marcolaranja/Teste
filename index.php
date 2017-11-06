@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>30/10</title>
-	<link rel="stylesheet" type="text/css" href="./style.css">
+	<title>Bootstrap</title>
+	<link rel="stylesheet" type="text/css" href="./bootstrap/css/bootstrap.css">
 </head>
 <body>
 
- <?php include 'header.php'; ?>
+	<div class="container">
 
-	<br clear="all" />
+		<div class="row">
+			
+			<div class="col-md-4 bg-primary text-center">logo</div>
+			<div class="col-md-4 bg-danger text-center">menu</div>
+			<div class="col-md-4 bg-warning text-center">redes</div>
 
-	<div class="content">
-		
-		<h1>Home</h1>
+		</div>
 
 	</div>
-	
-	
- <?php include 'footer.php'; ?>
 
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="./bootstrap/js/bootstrap.js"></script>
 </body>
 </html>
