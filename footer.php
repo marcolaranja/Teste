@@ -1,12 +1,21 @@
-<div class="footer">
+<footer class="bg-info">
+    
+    <div class="container">
+      
+      <ul>
+        <li><a href="./index.php">Home</a></li>
+        <li><a href="./quem-somos.php">Quem Somos</a></li>
+        <li><a href="./portfolio.php">Portfólio</a></li>
+        <li><a href="./servicos.php">Serviços</a></li>
+        <li><a href="./clientes.php">Clientes</a></li>
+        <li><a href="./contato.php">Contato</a></li>
+      </ul>
 
-		<ul>
-			<li><a href="./">Home</a></li>
-			<li><a href="./quem-somos.php">Quem Somos</a></li>
-			<li><a href="./servicos.php">Serviços</a></li>
-			<li><a href="./clientes.php">Clientes</a></li>
-			<li><a href="./portfolio.php">Portfólio</a></li>
-			<li><a href="./contato.php">Contato</a></li>
-		</ul>
+    </div>
 
-	</div>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="./bootstrap/js/bootstrap.js"></script>
+</body>
+</html>
