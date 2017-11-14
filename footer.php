@@ -1,7 +1,7 @@
 <footer class="bg-info">
-    
+
     <div class="container">
-      
+
       <ul>
         <li><a href="./index.php">Home</a></li>
         <li><a href="./quem-somos.php">Quem Somos</a></li>
@@ -18,7 +18,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="./bootstrap/js/bootstrap.js"></script>
   <script type="text/javascript">
-    
+
 
     $(document).ready(function(){
 
